@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.btn {
+  background-color: white;
+  cursor: pointer;
+  margin: 0.5rem;
+  color: black;
+  border: 2px solid purple;
+  border-radius: 1px;
+  padding: 0.4rem;
+  border-radius: 0.8rem;
+}
+.btn:hover {
+  color: white;
+  background-color: purple;
+}
+.uList {
+  list-style: none;
+  margin: 2rem 0rem;
+}
+.list {
+  text-align: left;
+  margin: 0.5rem 0rem;
+  font-weight: bold;
+}
+.rating {
+  padding: 0px 20px;
+  margin: 0px 5px;
+}
+ul hr {
+  width: 63%;
+  margin-left: 0;
+}
